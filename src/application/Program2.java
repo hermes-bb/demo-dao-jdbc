@@ -47,7 +47,7 @@ public class Program2 {
 		departmentDao.findById(9); 
 		department.setName("Departamento 9");
 		departmentDao.update(department);
-		System.out.println("Update completed!");
+		System.out.println("Update completed!");8
 		System.out.println("=== End   TEST: department update ===\n");
 		*/
 		
